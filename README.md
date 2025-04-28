@@ -88,4 +88,4 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analisedevendas.git
+   git clone https://github.com/J-FerreiraL/Analises-Dados
